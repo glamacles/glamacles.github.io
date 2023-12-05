@@ -4,11 +4,10 @@
 
 layout: home
 title: Home
-landing-title: 'Glamacles'
-description: null
+landing-title: null 
+description: 'Test'
 image: null
 author: null
 show_tile: false
 ---
 
-Placeholder
