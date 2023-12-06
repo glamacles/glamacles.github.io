@@ -29,7 +29,7 @@ state: Montana
 zip_code: 59812
 country: USA
 formaddress: maygryvn
-description: The Glaciology in Machine Learning Summer School (GlaMacLeS) is an NSF-funded project aimed at building foundational skills and a community of practice for early-career researchers at the intersection of machine learning and cryospheric science.  GlaMacLeS will take place at the Taft-Nicholson Center in Southwest Montana in the summer of 2024.  The application period is currently open.  See below for more information.<br />  <img src=assets/images/nsf_logo.png height=150> <img src=assets/images/um_logo.png height=150>
+description: The Glaciology in Machine Learning Summer School (GlaMacLeS) is an NSF-funded project aimed at building foundational skills and a community of practice for early-career researchers at the intersection of machine learning and cryospheric science.  GlaMacLeS will take place at the Taft-Nicholson Center in Southwest Montana in the summer of 2024.  The application period is currently open.  See below for more information.<br /> <br />  <img src=assets/images/nsf_logo.png height=150> <img src=assets/images/um_logo.png height=150>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
