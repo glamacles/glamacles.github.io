@@ -14,7 +14,7 @@ nav-menu: true
 			<h1>About</h1>
 		</header>
 <!-- Text stuff -->
-<p>This course is intended to provide students with a comprehensive overview of the rapidly-changing interface of glaciology with Machine Learning and artificial intelligence.  Key topics that may be covered include
+<p>This course is intended to provide students with a comprehensive overview of the rapidly-changing interface of glaciology with machine learning and artificial intelligence.  Key topics that may be covered include
 </p>
 <div>
 	<ul>
@@ -33,8 +33,8 @@ nav-menu: true
 		<li>Doug Brinkerhoff, University of Montana</li>
 		<li>Ching-Yao Lai, Stanford University</li> 
 		<li>Mauro Perego, Sandia National Laboratory</li> 
-		<li>To be determined</li>
-		<li>To be determined</li>
+		<li>Daniel Cheng, NASA Jet Propulsion Laboratory</li>
+		<li>Jacob Downs, University of Montana</li>
 	</ul>
 </div>
 <p>Fixed costs for attending the course (including airfare, transportation, and room and board at the Taft-Nicholson Center) are covered by a generous grant from the National Science Foundation.</p>
