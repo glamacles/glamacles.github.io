@@ -20,7 +20,7 @@ Applications must consist of the following three elements:
 3. a description of your proposed thesis/primary research interests.   This document does not need to include a full methodological description -- just a brief overview of your work.  In particular, emphasize how this research can utilize machine learning.  This document should describe major collaborations included as part of this effort, including the name of your thesis advisor or research supervisor.  
 
 ### Eligibility
-The course is open to PhD students and postdoctoral researchers from anywhere in the world working in any facet of glaciology.  All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  Applicants will be selected based on a demonstrated potential benefit from the course as communicated in their application.   All students are expected to participate in the entire course, i.e. it is not possible to come later or leave earlier.
+The course is open to PhD students and postdoctoral researchers from anywhere in the world working in any facet of glaciology.  All qualified applicants will receive consideration without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  Applicants will be selected based on a demonstrated potential benefit from the course as communicated in their application.   All students are expected to participate in the entire course, i.e. it is not possible to come later or leave earlier.
 
 </div>
 </section>
