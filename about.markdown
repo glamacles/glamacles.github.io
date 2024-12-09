@@ -27,7 +27,7 @@ nav-menu: true
 </div>
 <p>The course is primarily oriented towards PhD students and early-stage postdocs that have strong foundational knowledge in glaciology, glaciological modeling, or remote sensing, and that wish to integrate ML methods into their work while simultaneously working to establish a community of practice.</p> 
 
-<p>The course will be held from June 16th-24th and will include 3 days of interactive lectures by course instructors, 3 days of student project development in collaboration with course instructors, a one day excursion to nearby Yellowstone National Park, and two days for travel and orientation.  Instructors include</p>
+<p>The course will be held from June 14th-23rd and will include 4 days of interactive lectures by course instructors, 3 days of student project development in collaboration with course instructors, a one day excursion to nearby Yellowstone National Park, and two days for travel and orientation.  Previous instructors include</p>
 <div>
 	<ul>
 		<li>Doug Brinkerhoff, University of Montana</li>
