@@ -9,7 +9,7 @@ nav-menu: true
 <div class="inner" markdown="1">
 # How to Apply
 
-## Application deadline: 15 February 2024
+## Application deadline: 15 February 2025
 
 ### Submission process
 Admission to GlaMacLeS is determined based on a competitive application process, with applications evaluated by an advisory board in late February 2024.  Applications should be e-mailed to [Doug Brinkerhoff](glamacles@mso.umt.edu) ([glamacles@mso.umt.edu](glamacles@mso.umt.edu)) no later than February 15th, 2025.  All applicants will receive e-mail confirmation of their application within three days.  Successful applicants will be notified by March 1st, 2025.  Because both available funding for participant support as well as physical space are limited, the course is limited to 15 students.  
